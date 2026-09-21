@@ -1,0 +1,19 @@
+Revenue Insight:
+The total revenue is $13,591,643.70, and the revenue growth is -4.56%, indicating a decrease in revenue compared to the previous qualifying month.
+
+Customer Insight:
+The business has a high one-time customer percentage (96.88%) and a low repeat customer percentage (3.12%). This suggests that there may be an opportunity to increase customer retention by addressing the reasons for one-time customers to return.
+
+Operations Insight:
+The early delivery performance is 91.89%, and the late delivery percentage is 8.11%. The average review score is 4.09/5. These metrics indicate that early delivery is a strength, while late delivery is an area for improvement.
+
+Recommended Actions:
+
+1. Implement a more efficient delivery system to reduce late deliveries (Operations Insight).
+The business should invest in a more efficient logistics system to minimize delays and improve on-time delivery rates.
+
+2. Develop targeted re-engagement strategies for one-time customers (Customer Insight).
+The business should create campaigns to encourage one-time customers to return and become repeat customers, potentially increasing revenue and improving customer retention.
+
+3. Continuously monitor and improve review scores to ensure high-quality customer experiences (Operations Insight).
+The business should focus on gathering customer feedback and making changes to improve the overall customer experience, as a high review score suggests a positive reputation.

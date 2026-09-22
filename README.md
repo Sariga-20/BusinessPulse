@@ -22,6 +22,18 @@ The system separates reliable metric calculation from AI-generated interpretatio
 
 ---
 
+## 📸 Power BI Dashboard Preview
+
+### Executive Dashboard
+
+![BusinessPulse Executive Dashboard](images/businesspulse-executive-dashboard.png)
+
+### Business Insights & AI Dashboard
+
+![BusinessPulse Business Insights Dashboard](images/businesspulse-business-insights.png)
+
+---
+
 ## 📊 Key Business Metrics
 
 The platform analyzes:
